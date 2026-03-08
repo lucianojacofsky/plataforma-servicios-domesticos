@@ -1,0 +1,5 @@
+.container { font-family: sans-serif; padding: 20px; background: #f4f7f6; min-height: 100vh; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; }
+.card { background: white; padding: 20px; border-radius: 12px; shadow: 0 4px 6px rgba(0,0,0,0.1); border: 1px solid #ddd; }
+.btn { background: #4f46e5; color: white; border: none; padding: 10px 20px; border-radius: 8px; cursor: pointer; width: 100%; margin-top: 10px; }
+.category { color: #4f46e5; font-weight: bold; font-size: 12px; text-transform: uppercase; }
